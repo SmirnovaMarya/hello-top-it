@@ -4,5 +4,5 @@ int main()
 {
   std::cout << "Hello, it!";
   std::cout << "\n";
-  std::cout << "I am Maria.";
+  std::cout << "Cool, I am Maria.";
 }
